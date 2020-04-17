@@ -3,7 +3,7 @@
 		"name": "Tigershrine",
 		"replaces": "Bank",
 		"uniqueTo": "Xenshi",
-		"cost": 130,
+		"cost": 250,
 		"culture": 1,
 		"greatPersonPoints": {"culture": 1},
 		"hurryCostModifier": 15,
