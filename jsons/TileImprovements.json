@@ -1,0 +1,13 @@
+[
+	{
+		name: "High Temple",
+		terrainsCanBeBuiltOn: ["Hill"],
+		"uniqueTo": "Xenshi",
+		"culture": 1,
+		turnsToBuild: 6,
+		techRequired: "Philosophy",
+		"improvingTech": "Civil Service",
+		"improvingTechStats": {"production":1},
+		uniques: ["Gives a defensive bonus of 50%"]
+	}
+]
