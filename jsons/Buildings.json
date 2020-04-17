@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Tigershrine",
+		"replaces": "Bank",
+		"uniqueTo": "Xenshi",
+		"cost": 130,
+		"culture": 1,
+		"greatPersonPoints": {"culture": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"culture": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	}
+]
