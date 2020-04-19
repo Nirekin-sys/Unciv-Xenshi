@@ -22,9 +22,9 @@
 		"outerColor": [0,180,183],
 		"innerColor": [255,255,255],
 		"unique": "BUSHIDO",
-		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
-			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
-			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
-			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"]
+		"cities": ["Xuandong","Nagasunai","Xuanjiang","Nagashiri","Tengmen","Khongana","Kusu","Gyeonghae","Zuunryngol","Hyehae",
+			"Miyayama","Furuyama","Soumoto","Baoying","Tengchong","Bayannuur","Naranshaat","Borhae","Naseong","Mungwon",
+			"Kurirano","Tatesunai","Tatematsunai","Aridatori","Shilin","Khairtai","Namju","Borwon","Gwanggeup","Hashitoro",
+			"Henai","Mutsuzawa","Zhaoliang","Suramay","Baruunturuun","Shimani","Borjin","Hyenan","Yeoyong","Kenfurano"]
 	}
 ]
